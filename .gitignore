@@ -1,0 +1,5 @@
+model/
+checkpoints/
+FAISS-index/
+__pycache__/
+*.pyc
